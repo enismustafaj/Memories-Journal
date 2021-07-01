@@ -1,0 +1,17 @@
+#chatlogs{
+	position: left;
+	border:5px ;
+	border-radius: 30;
+}
+#but{
+	    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
